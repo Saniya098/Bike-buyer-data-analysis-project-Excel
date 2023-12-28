@@ -1,6 +1,7 @@
 # Bike-Buyer-Data-Analysis-Project-using Excel
 
 **Introduction**
+
 Elevate your bike buyer data analysis project using Excel as the cornerstone for data cleaning, analysis, insight, and visualization. Uncover the secrets hidden in your data to identify the most effective marketing strategies for each buyer and establish connections between various variables and potential bike purchases.
 
 **How to Solve Data Analysis Problem Framework**
@@ -113,4 +114,4 @@ Single Female: Align marketing strategies with those for Married Females.
 Single Male: Similar approach to marketing as for Married Males.
 
 
-Harness the power of Excel for precise insights and strategic decision-making in the competitive bike market.
+**Harness the power of Excel for precise insights and strategic decision-making in the competitive bike market.**
