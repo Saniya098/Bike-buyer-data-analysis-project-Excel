@@ -24,15 +24,18 @@ Embrace a comprehensive framework to guide your data analysis journey:
 * Act
 
 _**1. Ask**_
+
 Define the problem domain by crafting effective questions using the SMART framework (Specific, Measurable, Action-oriented, Relevant, Time-bound). 
 
 Question:
 Does every column have a connection to marital and gender status that leads to the purchased bike column?
 
 _**2. Prepare**_
+
 Organize and understand the given data, considering qualitative (nominal) and quantitative (discrete) data types.
 
 _**3. Process**_
+
 Cleanse the data to resolve issues like missing, inaccurate, or inconsistent information. Perform steps such as:
 
 - Create a new sheet for data cleaning.
@@ -49,6 +52,7 @@ _Cleaning Act History:_
 - Formatted numbers and added categorical columns for simplicity.
 
 _**4. Analyze**_
+
 Conduct in-depth analysis to discover connections. Utilize pivot tables and charts to visualize insights:
 
 _Marital Status and Income:_
