@@ -75,72 +75,72 @@ _Marital Status and Children:_
 
 _Marital Status and Education:_
 
-Higher likelihood of bike purchase at the bachelor's degree level for both.
+- Higher likelihood of bike purchase at the bachelor's degree level for both.
 
 
 _Gender and Education:_
 
-Balanced desire for bike purchase across genders.
+- Balanced desire for bike purchase across genders.
 
 
 _Marital Status and Occupation:_
 
-Professionals and skilled workers more likely to buy bikes.
+- Professionals and skilled workers more likely to buy bikes.
 
 
 _Gender and Occupation:_
 
-Similar preference for professionals and skilled workers, with a higher likelihood for females.
+- Similar preference for professionals and skilled workers, with a higher likelihood for females.
 
 
 _Marital Status and Homeownership:_
 
-Married individuals with homeownership more likely to buy bikes.
+- Married individuals with homeownership more likely to buy bikes.
 
 
 _Gender and Homeownership:_
 
-Both genders with homeownership more likely to buy bikes.
+- Both genders with homeownership more likely to buy bikes.
 
 
 _Marital Status and Cars:_
 
-Individuals with fewer than three cars more likely to buy bikes.
+- Individuals with fewer than three cars more likely to buy bikes.
 
 
 _Gender and Cars:_
 
-Both genders with 2 or fewer cars more likely to buy bikes.
+- Both genders with 2 or fewer cars more likely to buy bikes.
 
 
 _Marital Status and Commute Distance:_
 
-Both married and single individuals likely to buy bikes for distances of 1 mile or less.
+- Both married and single individuals likely to buy bikes for distances of 1 mile or less.
 
 
 _Gender and Commute Distance:_
 
-Similar preference for distances of 1 mile or less for both genders.
+- Similar preference for distances of 1 mile or less for both genders.
 
 
 _Marital Status and Region:_
 
-Higher likelihood of bike purchase in North America for both.
+- Higher likelihood of bike purchase in North America for both.
 
 
 _Gender and Region:_
 
-Similar preference for North America, followed by Europe and the Pacific.
+- Similar preference for North America, followed by Europe and the Pacific.
 
 
 _Marital Status and Age Range:_
 
-Both married and single adults more likely to buy bikes.
+- Both married and single adults more likely to buy bikes.
 
 
 _Gender and Age Range:_
 
-Similar preference for bike purchase among adult males and females.
+- Similar preference for bike purchase among adult males and females.
 
 
 **Findings and Recommendations**
