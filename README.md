@@ -150,8 +150,11 @@ Identify four distinct buyer types: Married Female, Married Male, Single Female,
 **Recommendations:**
 
 Married Female: Focus on affordable bikes, socializing, and target North American markets.
+
 Married Male: Cater to a wider income range, emphasizing casual and hobbyist biking.
+
 Single Female: Align marketing strategies with those for Married Females.
+
 Single Male: Similar approach to marketing as for Married Males.
 
 
